@@ -1,0 +1,769 @@
+Date,Category,Amount,Payment_Method,Description,Is_Weekend,Month,Year,Month_Year,DayOfWeek,Quarter
+2023-01-01,Transport,898.86,UPI,Metro card recharge,1,1,2023,2023-01,Sunday,1
+2023-01-01,Transport,773.14,Net Banking,Metro card recharge,1,1,2023,2023-01,Sunday,1
+2023-01-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,1,2023,2023-01,Sunday,1
+2023-01-02,Education,1602.28,Credit Card,Stationery,0,1,2023,2023-01,Monday,1
+2023-01-03,Utilities,460.26,Net Banking,Internet bill,0,1,2023,2023-01,Tuesday,1
+2023-01-03,Education,2022.93,Credit Card,Online course,0,1,2023,2023-01,Tuesday,1
+2023-01-03,Shopping,634.25,Cash,Amazon order,0,1,2023,2023-01,Tuesday,1
+2023-01-04,Food & Dining,2161.69,Net Banking,Zomato order,0,1,2023,2023-01,Wednesday,1
+2023-01-08,Entertainment,530.51,Cash,Gaming purchase,1,1,2023,2023-01,Sunday,1
+2023-01-08,Food & Dining,2810.19,Credit Card,Street food,1,1,2023,2023-01,Sunday,1
+2023-01-08,Transport,773.43,Net Banking,Bus pass,1,1,2023,2023-01,Sunday,1
+2023-01-09,Healthcare,402.82,UPI,Gym membership,0,1,2023,2023-01,Monday,1
+2023-01-09,Entertainment,377.96,UPI,Movie tickets,0,1,2023,2023-01,Monday,1
+2023-01-09,Shopping,765.93,Credit Card,Flipkart,0,1,2023,2023-01,Monday,1
+2023-01-12,Miscellaneous,786.62,Debit Card,Lost wallet recharge,0,1,2023,2023-01,Thursday,1
+2023-01-12,Healthcare,494.98,Debit Card,Health supplement,0,1,2023,2023-01,Thursday,1
+2023-01-15,Miscellaneous,1262.48,Net Banking,Surprise gift,0,1,2023,2023-01,Sunday,1
+2023-01-18,Utilities,483.79,UPI,Mobile recharge,0,1,2023,2023-01,Wednesday,1
+2023-01-19,Transport,772.67,Cash,Ola/Uber ride,0,1,2023,2023-01,Thursday,1
+2023-01-19,Utilities,504.9,Credit Card,Electricity bill,0,1,2023,2023-01,Thursday,1
+2023-01-21,Miscellaneous,679.19,Credit Card,Surprise gift,0,1,2023,2023-01,Saturday,1
+2023-01-21,Miscellaneous,2535.51,Credit Card,Car repair,0,1,2023,2023-01,Saturday,1
+2023-01-21,Food & Dining,3195.44,UPI,Zomato order,1,1,2023,2023-01,Saturday,1
+2023-01-23,Shopping,494.87,Cash,Clothing store,0,1,2023,2023-01,Monday,1
+2023-01-23,Transport,861.38,Net Banking,Auto fare,0,1,2023,2023-01,Monday,1
+2023-01-24,Food & Dining,2752.2,Debit Card,Swiggy,0,1,2023,2023-01,Tuesday,1
+2023-01-27,Utilities,646.49,Net Banking,Internet bill,0,1,2023,2023-01,Friday,1
+2023-01-30,Miscellaneous,2113.93,UPI,House repair,0,1,2023,2023-01,Monday,1
+2023-01-31,Shopping,606.62,Debit Card,Amazon order,0,1,2023,2023-01,Tuesday,1
+2023-02-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,2,2023,2023-02,Wednesday,1
+2023-02-03,Transport,1016.25,Credit Card,Bus pass,0,2,2023,2023-02,Friday,1
+2023-02-05,Miscellaneous,1246.96,Credit Card,House repair,0,2,2023,2023-02,Sunday,1
+2023-02-08,Shopping,1292.14,Credit Card,Home décor,0,2,2023,2023-02,Wednesday,1
+2023-02-09,Entertainment,602.59,Net Banking,Concert,0,2,2023,2023-02,Thursday,1
+2023-02-09,Entertainment,577.24,Credit Card,Movie tickets,0,2,2023,2023-02,Thursday,1
+2023-02-10,Education,669.95,Cash,Books,0,2,2023,2023-02,Friday,1
+2023-02-11,Food & Dining,2303.54,Cash,Restaurant dinner,1,2,2023,2023-02,Saturday,1
+2023-02-11,Miscellaneous,1568.1,UPI,Car repair,0,2,2023,2023-02,Saturday,1
+2023-02-13,Utilities,843.89,Net Banking,Mobile recharge,0,2,2023,2023-02,Monday,1
+2023-02-15,Education,604.2,UPI,Stationery,0,2,2023,2023-02,Wednesday,1
+2023-02-16,Shopping,1046.17,UPI,Amazon order,0,2,2023,2023-02,Thursday,1
+2023-02-17,Education,569.67,Credit Card,Certification exam,0,2,2023,2023-02,Friday,1
+2023-02-17,Utilities,723.01,Debit Card,DTH recharge,0,2,2023,2023-02,Friday,1
+2023-02-19,Shopping,1183.2,Cash,Clothing store,1,2,2023,2023-02,Sunday,1
+2023-02-20,Healthcare,69.16,UPI,Gym membership,0,2,2023,2023-02,Monday,1
+2023-02-21,Transport,645.19,Cash,Auto fare,0,2,2023,2023-02,Tuesday,1
+2023-02-21,Healthcare,64.47,Credit Card,Gym membership,0,2,2023,2023-02,Tuesday,1
+2023-02-21,Entertainment,475.04,Cash,Movie tickets,0,2,2023,2023-02,Tuesday,1
+2023-02-22,Education,736.39,Net Banking,Stationery,0,2,2023,2023-02,Wednesday,1
+2023-02-22,Food & Dining,2335.45,Debit Card,Bakery,0,2,2023,2023-02,Wednesday,1
+2023-02-23,Transport,922.37,Debit Card,Metro card recharge,0,2,2023,2023-02,Thursday,1
+2023-02-24,Entertainment,610.5,Net Banking,Gaming purchase,0,2,2023,2023-02,Friday,1
+2023-02-25,Education,362.05,Debit Card,Online course,1,2,2023,2023-02,Saturday,1
+2023-02-25,Food & Dining,2908.65,UPI,Swiggy,1,2,2023,2023-02,Saturday,1
+2023-02-25,Miscellaneous,2782.82,UPI,House repair,0,2,2023,2023-02,Saturday,1
+2023-02-27,Food & Dining,2174.09,UPI,Bakery,0,2,2023,2023-02,Monday,1
+2023-02-27,Miscellaneous,1989.06,Net Banking,Surprise gift,0,2,2023,2023-02,Monday,1
+2023-02-28,Healthcare,47.15,UPI,Doctor consultation,0,2,2023,2023-02,Tuesday,1
+2023-02-28,Utilities,843.86,UPI,Electricity bill,0,2,2023,2023-02,Tuesday,1
+2023-03-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,3,2023,2023-03,Wednesday,1
+2023-03-02,Miscellaneous,558.66,UPI,Miscellaneous,0,3,2023,2023-03,Thursday,1
+2023-03-02,Food & Dining,2624.03,Credit Card,Coffee shop,0,3,2023,2023-03,Thursday,1
+2023-03-02,Miscellaneous,2026.01,Net Banking,Emergency purchase,0,3,2023,2023-03,Thursday,1
+2023-03-03,Miscellaneous,2793.83,Credit Card,Surprise gift,0,3,2023,2023-03,Friday,1
+2023-03-03,Utilities,523.66,Net Banking,Water bill,0,3,2023,2023-03,Friday,1
+2023-03-03,Utilities,374.43,UPI,Internet bill,0,3,2023,2023-03,Friday,1
+2023-03-03,Utilities,519.88,UPI,Water bill,0,3,2023,2023-03,Friday,1
+2023-03-03,Healthcare,174.76,Debit Card,Pharmacy,0,3,2023,2023-03,Friday,1
+2023-03-04,Shopping,1059.19,Credit Card,Flipkart,1,3,2023,2023-03,Saturday,1
+2023-03-05,Transport,1339.89,Cash,Bus pass,1,3,2023,2023-03,Sunday,1
+2023-03-05,Miscellaneous,1381.27,Debit Card,Medical emergency,0,3,2023,2023-03,Sunday,1
+2023-03-06,Entertainment,775.84,Debit Card,Gaming purchase,0,3,2023,2023-03,Monday,1
+2023-03-07,Education,566.93,UPI,Online course,0,3,2023,2023-03,Tuesday,1
+2023-03-08,Miscellaneous,939.84,Credit Card,Miscellaneous,0,3,2023,2023-03,Wednesday,1
+2023-03-08,Miscellaneous,2648.56,UPI,Medical emergency,0,3,2023,2023-03,Wednesday,1
+2023-03-09,Utilities,530.5,Cash,Water bill,0,3,2023,2023-03,Thursday,1
+2023-03-10,Shopping,1131.39,Cash,Footwear,0,3,2023,2023-03,Friday,1
+2023-03-13,Miscellaneous,769.68,Debit Card,Miscellaneous,0,3,2023,2023-03,Monday,1
+2023-03-14,Education,541.4,Cash,Coaching fee,0,3,2023,2023-03,Tuesday,1
+2023-03-18,Education,505.86,Credit Card,Certification exam,1,3,2023,2023-03,Saturday,1
+2023-03-19,Healthcare,189.94,Net Banking,Doctor consultation,1,3,2023,2023-03,Sunday,1
+2023-03-19,Education,481.45,Cash,Books,1,3,2023,2023-03,Sunday,1
+2023-03-19,Healthcare,229.76,Credit Card,Pharmacy,1,3,2023,2023-03,Sunday,1
+2023-03-21,Shopping,1090.75,Debit Card,Electronics,0,3,2023,2023-03,Tuesday,1
+2023-03-22,Education,538.56,Cash,Stationery,0,3,2023,2023-03,Wednesday,1
+2023-03-24,Transport,1305.46,Cash,Ola/Uber ride,0,3,2023,2023-03,Friday,1
+2023-03-25,Entertainment,879.83,Credit Card,Sports event,1,3,2023,2023-03,Saturday,1
+2023-03-25,Transport,1145.25,Net Banking,Metro card recharge,1,3,2023,2023-03,Saturday,1
+2023-03-26,Miscellaneous,2611.78,Net Banking,Emergency purchase,0,3,2023,2023-03,Sunday,1
+2023-03-26,Education,399.13,Cash,Coaching fee,1,3,2023,2023-03,Sunday,1
+2023-03-28,Entertainment,824.54,Net Banking,Concert,0,3,2023,2023-03,Tuesday,1
+2023-03-29,Shopping,890.51,Net Banking,Electronics,0,3,2023,2023-03,Wednesday,1
+2023-03-29,Food & Dining,3475.96,Debit Card,Swiggy,0,3,2023,2023-03,Wednesday,1
+2023-03-31,Entertainment,816.16,Credit Card,Gaming purchase,0,3,2023,2023-03,Friday,1
+2023-03-31,Food & Dining,2500.17,UPI,Zomato order,0,3,2023,2023-03,Friday,1
+2023-04-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,4,2023,2023-04,Saturday,2
+2023-04-02,Education,542.64,Net Banking,Online course,1,4,2023,2023-04,Sunday,2
+2023-04-02,Utilities,557.23,Net Banking,Electricity bill,1,4,2023,2023-04,Sunday,2
+2023-04-02,Entertainment,1484.85,Net Banking,Sports event,1,4,2023,2023-04,Sunday,2
+2023-04-03,Miscellaneous,1705.38,Net Banking,Car repair,0,4,2023,2023-04,Monday,2
+2023-04-05,Miscellaneous,2813.13,UPI,Surprise gift,0,4,2023,2023-04,Wednesday,2
+2023-04-06,Food & Dining,1829.11,Cash,Zomato order,0,4,2023,2023-04,Thursday,2
+2023-04-07,Food & Dining,2203.51,Cash,Zomato order,0,4,2023,2023-04,Friday,2
+2023-04-07,Entertainment,900.58,Debit Card,Movie tickets,0,4,2023,2023-04,Friday,2
+2023-04-08,Education,707.67,Net Banking,Certification exam,1,4,2023,2023-04,Saturday,2
+2023-04-09,Miscellaneous,621.72,Cash,Miscellaneous,1,4,2023,2023-04,Sunday,2
+2023-04-10,Transport,463.41,Cash,Parking fee,0,4,2023,2023-04,Monday,2
+2023-04-11,Shopping,2269.8,UPI,Amazon order,0,4,2023,2023-04,Tuesday,2
+2023-04-13,Transport,575.73,Debit Card,Auto fare,0,4,2023,2023-04,Thursday,2
+2023-04-13,Education,845.62,UPI,Certification exam,0,4,2023,2023-04,Thursday,2
+2023-04-14,Food & Dining,2419.15,Cash,Grocery store,0,4,2023,2023-04,Friday,2
+2023-04-14,Education,725.77,Net Banking,Certification exam,0,4,2023,2023-04,Friday,2
+2023-04-15,Miscellaneous,1939.25,Net Banking,Emergency purchase,0,4,2023,2023-04,Saturday,2
+2023-04-15,Miscellaneous,1085.3,UPI,Emergency purchase,0,4,2023,2023-04,Saturday,2
+2023-04-18,Entertainment,1321.07,UPI,Sports event,0,4,2023,2023-04,Tuesday,2
+2023-04-19,Shopping,2440.83,Cash,Home décor,0,4,2023,2023-04,Wednesday,2
+2023-04-20,Utilities,548.15,UPI,Water bill,0,4,2023,2023-04,Thursday,2
+2023-04-22,Miscellaneous,476.35,Debit Card,Miscellaneous,1,4,2023,2023-04,Saturday,2
+2023-04-23,Transport,474.38,Cash,Metro card recharge,1,4,2023,2023-04,Sunday,2
+2023-04-24,Transport,662.51,Net Banking,Parking fee,0,4,2023,2023-04,Monday,2
+2023-04-28,Utilities,475.67,Credit Card,Electricity bill,0,4,2023,2023-04,Friday,2
+2023-04-30,Utilities,549.6,Net Banking,Water bill,1,4,2023,2023-04,Sunday,2
+2023-04-30,Miscellaneous,637.63,Debit Card,Miscellaneous,1,4,2023,2023-04,Sunday,2
+2023-05-01,Miscellaneous,702.21,Debit Card,Medical emergency,0,5,2023,2023-05,Monday,2
+2023-05-01,Utilities,385.18,UPI,Electricity bill,0,5,2023,2023-05,Monday,2
+2023-05-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,5,2023,2023-05,Monday,2
+2023-05-02,Utilities,325.65,Debit Card,DTH recharge,0,5,2023,2023-05,Tuesday,2
+2023-05-02,Healthcare,308.29,UPI,Lab test,0,5,2023,2023-05,Tuesday,2
+2023-05-03,Shopping,2748.35,Cash,Clothing store,0,5,2023,2023-05,Wednesday,2
+2023-05-05,Education,639.71,UPI,Stationery,0,5,2023,2023-05,Friday,2
+2023-05-06,Healthcare,329.5,Cash,Health supplement,1,5,2023,2023-05,Saturday,2
+2023-05-06,Miscellaneous,2404.65,UPI,Medical emergency,0,5,2023,2023-05,Saturday,2
+2023-05-07,Entertainment,1405.49,Debit Card,Movie tickets,1,5,2023,2023-05,Sunday,2
+2023-05-07,Miscellaneous,2486.44,Cash,Car repair,0,5,2023,2023-05,Sunday,2
+2023-05-07,Education,705.76,Credit Card,Online course,1,5,2023,2023-05,Sunday,2
+2023-05-09,Entertainment,1391.67,Debit Card,Gaming purchase,0,5,2023,2023-05,Tuesday,2
+2023-05-09,Transport,1100.97,UPI,Ola/Uber ride,0,5,2023,2023-05,Tuesday,2
+2023-05-10,Food & Dining,2047.3,Net Banking,Bakery,0,5,2023,2023-05,Wednesday,2
+2023-05-12,Education,703.1,Net Banking,Coaching fee,0,5,2023,2023-05,Friday,2
+2023-05-12,Education,658.2,UPI,Stationery,0,5,2023,2023-05,Friday,2
+2023-05-12,Food & Dining,2965.02,Debit Card,Swiggy,0,5,2023,2023-05,Friday,2
+2023-05-15,Food & Dining,2223.31,Net Banking,Street food,0,5,2023,2023-05,Monday,2
+2023-05-16,Shopping,2399.26,Debit Card,Amazon order,0,5,2023,2023-05,Tuesday,2
+2023-05-18,Utilities,384.08,Credit Card,Mobile recharge,0,5,2023,2023-05,Thursday,2
+2023-05-21,Food & Dining,2600.37,Net Banking,Zomato order,1,5,2023,2023-05,Sunday,2
+2023-05-22,Transport,1029.56,Net Banking,Petrol,0,5,2023,2023-05,Monday,2
+2023-05-22,Entertainment,861.3,Debit Card,Gaming purchase,0,5,2023,2023-05,Monday,2
+2023-05-23,Healthcare,398.52,Cash,Health supplement,0,5,2023,2023-05,Tuesday,2
+2023-05-24,Miscellaneous,134.52,Credit Card,Miscellaneous,0,5,2023,2023-05,Wednesday,2
+2023-05-24,Entertainment,949.15,Net Banking,Movie tickets,0,5,2023,2023-05,Wednesday,2
+2023-05-25,Healthcare,272.91,Credit Card,Lab test,0,5,2023,2023-05,Thursday,2
+2023-05-26,Miscellaneous,2075.74,Credit Card,Car repair,0,5,2023,2023-05,Friday,2
+2023-05-28,Miscellaneous,134.49,Credit Card,Miscellaneous,1,5,2023,2023-05,Sunday,2
+2023-05-28,Miscellaneous,308.43,Cash,Surprise gift,0,5,2023,2023-05,Sunday,2
+2023-05-30,Transport,1020.09,UPI,Metro card recharge,0,5,2023,2023-05,Tuesday,2
+2023-05-31,Utilities,397.12,Credit Card,DTH recharge,0,5,2023,2023-05,Wednesday,2
+2023-06-01,Food & Dining,4031.54,Credit Card,Grocery store,0,6,2023,2023-06,Thursday,2
+2023-06-01,Transport,1114.85,UPI,Petrol,0,6,2023,2023-06,Thursday,2
+2023-06-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,6,2023,2023-06,Thursday,2
+2023-06-02,Entertainment,1327.57,UPI,Gaming purchase,0,6,2023,2023-06,Friday,2
+2023-06-03,Miscellaneous,2491.59,Credit Card,Lost wallet recharge,0,6,2023,2023-06,Saturday,2
+2023-06-03,Miscellaneous,994.6,Net Banking,Car repair,0,6,2023,2023-06,Saturday,2
+2023-06-03,Food & Dining,4915.77,Debit Card,Restaurant dinner,1,6,2023,2023-06,Saturday,2
+2023-06-05,Utilities,839.43,Credit Card,Mobile recharge,0,6,2023,2023-06,Monday,2
+2023-06-06,Entertainment,866.53,Net Banking,OTT subscription,0,6,2023,2023-06,Tuesday,2
+2023-06-09,Shopping,909.88,UPI,Footwear,0,6,2023,2023-06,Friday,2
+2023-06-10,Utilities,687.56,Cash,Internet bill,1,6,2023,2023-06,Saturday,2
+2023-06-10,Education,758.84,Debit Card,Books,1,6,2023,2023-06,Saturday,2
+2023-06-10,Food & Dining,4861.69,Credit Card,Swiggy,1,6,2023,2023-06,Saturday,2
+2023-06-11,Food & Dining,5119.04,Debit Card,Bakery,1,6,2023,2023-06,Sunday,2
+2023-06-13,Shopping,737.12,Net Banking,Flipkart,0,6,2023,2023-06,Tuesday,2
+2023-06-13,Education,541.17,Net Banking,Online course,0,6,2023,2023-06,Tuesday,2
+2023-06-13,Utilities,766.89,Debit Card,DTH recharge,0,6,2023,2023-06,Tuesday,2
+2023-06-14,Entertainment,912.49,Debit Card,Sports event,0,6,2023,2023-06,Wednesday,2
+2023-06-14,Shopping,735.25,UPI,Home décor,0,6,2023,2023-06,Wednesday,2
+2023-06-14,Healthcare,196.59,UPI,Lab test,0,6,2023,2023-06,Wednesday,2
+2023-06-15,Miscellaneous,1437.0,Credit Card,House repair,0,6,2023,2023-06,Thursday,2
+2023-06-16,Miscellaneous,2422.46,Credit Card,Lost wallet recharge,0,6,2023,2023-06,Friday,2
+2023-06-20,Education,557.22,Net Banking,Stationery,0,6,2023,2023-06,Tuesday,2
+2023-06-20,Shopping,692.23,Net Banking,Amazon order,0,6,2023,2023-06,Tuesday,2
+2023-06-20,Healthcare,124.99,Debit Card,Pharmacy,0,6,2023,2023-06,Tuesday,2
+2023-06-21,Transport,1063.01,Net Banking,Auto fare,0,6,2023,2023-06,Wednesday,2
+2023-06-22,Education,569.86,Cash,Books,0,6,2023,2023-06,Thursday,2
+2023-06-22,Transport,1159.68,Net Banking,Petrol,0,6,2023,2023-06,Thursday,2
+2023-06-24,Healthcare,237.25,Credit Card,Lab test,1,6,2023,2023-06,Saturday,2
+2023-06-24,Healthcare,184.54,Debit Card,Health supplement,1,6,2023,2023-06,Saturday,2
+2023-06-26,Entertainment,1118.46,Debit Card,Concert,0,6,2023,2023-06,Monday,2
+2023-06-30,Shopping,852.52,Net Banking,Footwear,0,6,2023,2023-06,Friday,2
+2023-07-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,7,2023,2023-07,Saturday,3
+2023-07-01,Miscellaneous,1288.8,Cash,Lost wallet recharge,0,7,2023,2023-07,Saturday,3
+2023-07-02,Food & Dining,3370.56,Credit Card,Grocery store,1,7,2023,2023-07,Sunday,3
+2023-07-02,Miscellaneous,336.22,Credit Card,Other expense,1,7,2023,2023-07,Sunday,3
+2023-07-02,Healthcare,633.49,Net Banking,Doctor consultation,1,7,2023,2023-07,Sunday,3
+2023-07-03,Travel,340.27,Credit Card,Hotel booking,0,7,2023,2023-07,Monday,3
+2023-07-05,Healthcare,808.62,Cash,Health supplement,0,7,2023,2023-07,Wednesday,3
+2023-07-06,Shopping,3392.65,Net Banking,Electronics,0,7,2023,2023-07,Thursday,3
+2023-07-07,Food & Dining,2158.63,Credit Card,Zomato order,0,7,2023,2023-07,Friday,3
+2023-07-08,Travel,325.27,Cash,Hotel booking,1,7,2023,2023-07,Saturday,3
+2023-07-10,Food & Dining,3228.79,Credit Card,Bakery,0,7,2023,2023-07,Monday,3
+2023-07-11,Travel,318.43,Debit Card,Travel insurance,0,7,2023,2023-07,Tuesday,3
+2023-07-13,Transport,1108.37,Credit Card,Metro card recharge,0,7,2023,2023-07,Thursday,3
+2023-07-13,Miscellaneous,360.59,Net Banking,Miscellaneous,0,7,2023,2023-07,Thursday,3
+2023-07-14,Transport,1248.3,Net Banking,Metro card recharge,0,7,2023,2023-07,Friday,3
+2023-07-14,Miscellaneous,288.0,Cash,Other expense,0,7,2023,2023-07,Friday,3
+2023-07-15,Education,772.19,Debit Card,Books,1,7,2023,2023-07,Saturday,3
+2023-07-15,Education,926.66,UPI,Stationery,1,7,2023,2023-07,Saturday,3
+2023-07-16,Miscellaneous,814.38,Cash,Medical emergency,0,7,2023,2023-07,Sunday,3
+2023-07-16,Education,670.59,Credit Card,Stationery,1,7,2023,2023-07,Sunday,3
+2023-07-16,Miscellaneous,216.51,Debit Card,Car repair,0,7,2023,2023-07,Sunday,3
+2023-07-18,Healthcare,688.51,Net Banking,Lab test,0,7,2023,2023-07,Tuesday,3
+2023-07-18,Miscellaneous,364.77,Cash,Other expense,0,7,2023,2023-07,Tuesday,3
+2023-07-20,Food & Dining,3327.11,UPI,Grocery store,0,7,2023,2023-07,Thursday,3
+2023-07-21,Entertainment,1419.71,UPI,Netflix,0,7,2023,2023-07,Friday,3
+2023-07-23,Travel,320.19,Credit Card,Flight ticket,1,7,2023,2023-07,Sunday,3
+2023-07-23,Transport,962.86,Cash,Auto fare,1,7,2023,2023-07,Sunday,3
+2023-07-24,Miscellaneous,2256.98,Net Banking,Surprise gift,0,7,2023,2023-07,Monday,3
+2023-07-25,Shopping,2853.18,Cash,Flipkart,0,7,2023,2023-07,Tuesday,3
+2023-07-25,Miscellaneous,1291.96,Cash,House repair,0,7,2023,2023-07,Tuesday,3
+2023-07-27,Utilities,489.86,Net Banking,Mobile recharge,0,7,2023,2023-07,Thursday,3
+2023-07-27,Utilities,525.35,Net Banking,Mobile recharge,0,7,2023,2023-07,Thursday,3
+2023-07-27,Education,1251.65,Debit Card,Certification exam,0,7,2023,2023-07,Thursday,3
+2023-07-29,Utilities,528.76,Credit Card,Mobile recharge,1,7,2023,2023-07,Saturday,3
+2023-07-30,Healthcare,948.25,UPI,Gym membership,1,7,2023,2023-07,Sunday,3
+2023-07-31,Utilities,473.1,Cash,DTH recharge,0,7,2023,2023-07,Monday,3
+2023-08-01,Entertainment,733.12,Net Banking,Netflix,0,8,2023,2023-08,Tuesday,3
+2023-08-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,8,2023,2023-08,Tuesday,3
+2023-08-02,Shopping,1018.39,UPI,Flipkart,0,8,2023,2023-08,Wednesday,3
+2023-08-02,Transport,975.04,Debit Card,Auto fare,0,8,2023,2023-08,Wednesday,3
+2023-08-03,Miscellaneous,1616.69,Debit Card,Emergency purchase,0,8,2023,2023-08,Thursday,3
+2023-08-05,Miscellaneous,1419.36,Net Banking,Lost wallet recharge,0,8,2023,2023-08,Saturday,3
+2023-08-05,Shopping,1228.36,Credit Card,Flipkart,1,8,2023,2023-08,Saturday,3
+2023-08-06,Utilities,487.08,Net Banking,DTH recharge,1,8,2023,2023-08,Sunday,3
+2023-08-06,Food & Dining,2011.35,Cash,Swiggy,1,8,2023,2023-08,Sunday,3
+2023-08-07,Shopping,820.18,UPI,Home décor,0,8,2023,2023-08,Monday,3
+2023-08-09,Entertainment,795.32,Cash,OTT subscription,0,8,2023,2023-08,Wednesday,3
+2023-08-10,Miscellaneous,412.95,Net Banking,Miscellaneous,0,8,2023,2023-08,Thursday,3
+2023-08-11,Entertainment,746.24,Debit Card,Concert,0,8,2023,2023-08,Friday,3
+2023-08-11,Transport,972.7,Credit Card,Auto fare,0,8,2023,2023-08,Friday,3
+2023-08-12,Miscellaneous,370.17,Net Banking,Other expense,1,8,2023,2023-08,Saturday,3
+2023-08-14,Miscellaneous,2890.21,Cash,Lost wallet recharge,0,8,2023,2023-08,Monday,3
+2023-08-16,Healthcare,25.22,UPI,Health supplement,0,8,2023,2023-08,Wednesday,3
+2023-08-19,Food & Dining,2188.98,UPI,Zomato order,1,8,2023,2023-08,Saturday,3
+2023-08-19,Education,669.75,Credit Card,Online course,1,8,2023,2023-08,Saturday,3
+2023-08-19,Education,641.03,UPI,Stationery,1,8,2023,2023-08,Saturday,3
+2023-08-19,Education,696.35,Cash,Coaching fee,1,8,2023,2023-08,Saturday,3
+2023-08-20,Food & Dining,2442.01,Net Banking,Zomato order,1,8,2023,2023-08,Sunday,3
+2023-08-21,Shopping,948.53,UPI,Footwear,0,8,2023,2023-08,Monday,3
+2023-08-21,Transport,916.31,Cash,Metro card recharge,0,8,2023,2023-08,Monday,3
+2023-08-23,Utilities,561.8,Debit Card,Internet bill,0,8,2023,2023-08,Wednesday,3
+2023-08-26,Miscellaneous,368.03,Net Banking,Miscellaneous,1,8,2023,2023-08,Saturday,3
+2023-08-27,Entertainment,867.33,UPI,Concert,1,8,2023,2023-08,Sunday,3
+2023-08-28,Miscellaneous,1376.16,Cash,Emergency purchase,0,8,2023,2023-08,Monday,3
+2023-08-28,Transport,1088.05,Cash,Metro card recharge,0,8,2023,2023-08,Monday,3
+2023-08-30,Food & Dining,1843.78,Cash,Coffee shop,0,8,2023,2023-08,Wednesday,3
+2023-08-31,Entertainment,634.13,Debit Card,Movie tickets,0,8,2023,2023-08,Thursday,3
+2023-08-31,Utilities,505.67,Debit Card,Electricity bill,0,8,2023,2023-08,Thursday,3
+2023-08-31,Utilities,569.23,UPI,Water bill,0,8,2023,2023-08,Thursday,3
+2023-08-31,Healthcare,24.04,Credit Card,Gym membership,0,8,2023,2023-08,Thursday,3
+2023-08-31,Education,776.93,Credit Card,Online course,0,8,2023,2023-08,Thursday,3
+2023-09-01,Shopping,826.26,Net Banking,Flipkart,0,9,2023,2023-09,Friday,3
+2023-09-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,9,2023,2023-09,Friday,3
+2023-09-01,Transport,705.3,Cash,Petrol,0,9,2023,2023-09,Friday,3
+2023-09-03,Shopping,800.9,Credit Card,Footwear,1,9,2023,2023-09,Sunday,3
+2023-09-04,Miscellaneous,2531.36,Debit Card,Surprise gift,0,9,2023,2023-09,Monday,3
+2023-09-04,Travel,488.1,Net Banking,Hotel booking,0,9,2023,2023-09,Monday,3
+2023-09-06,Entertainment,450.77,Cash,Movie tickets,0,9,2023,2023-09,Wednesday,3
+2023-09-07,Travel,390.23,Credit Card,Train ticket,0,9,2023,2023-09,Thursday,3
+2023-09-09,Travel,369.63,Net Banking,Travel insurance,1,9,2023,2023-09,Saturday,3
+2023-09-09,Transport,735.12,Cash,Metro card recharge,1,9,2023,2023-09,Saturday,3
+2023-09-09,Education,2425.45,Debit Card,Stationery,1,9,2023,2023-09,Saturday,3
+2023-09-09,Food & Dining,1494.19,Net Banking,Bakery,1,9,2023,2023-09,Saturday,3
+2023-09-09,Entertainment,534.78,Net Banking,Sports event,1,9,2023,2023-09,Saturday,3
+2023-09-10,Healthcare,693.77,Credit Card,Gym membership,1,9,2023,2023-09,Sunday,3
+2023-09-11,Transport,719.54,Credit Card,Ola/Uber ride,0,9,2023,2023-09,Monday,3
+2023-09-11,Utilities,471.73,Debit Card,Mobile recharge,0,9,2023,2023-09,Monday,3
+2023-09-12,Utilities,453.05,Cash,DTH recharge,0,9,2023,2023-09,Tuesday,3
+2023-09-12,Miscellaneous,702.44,UPI,Lost wallet recharge,0,9,2023,2023-09,Tuesday,3
+2023-09-12,Entertainment,514.34,Debit Card,OTT subscription,0,9,2023,2023-09,Tuesday,3
+2023-09-14,Shopping,811.1,Cash,Home décor,0,9,2023,2023-09,Thursday,3
+2023-09-16,Utilities,455.49,Net Banking,DTH recharge,1,9,2023,2023-09,Saturday,3
+2023-09-16,Healthcare,638.55,Cash,Gym membership,1,9,2023,2023-09,Saturday,3
+2023-09-16,Food & Dining,1833.42,Cash,Grocery store,1,9,2023,2023-09,Saturday,3
+2023-09-18,Miscellaneous,554.43,UPI,Emergency purchase,0,9,2023,2023-09,Monday,3
+2023-09-18,Miscellaneous,1017.98,Credit Card,Lost wallet recharge,0,9,2023,2023-09,Monday,3
+2023-09-20,Transport,735.18,Cash,Petrol,0,9,2023,2023-09,Wednesday,3
+2023-09-22,Utilities,688.59,Net Banking,Internet bill,0,9,2023,2023-09,Friday,3
+2023-09-23,Healthcare,464.04,Credit Card,Lab test,1,9,2023,2023-09,Saturday,3
+2023-09-24,Travel,547.42,Credit Card,Cab to airport,1,9,2023,2023-09,Sunday,3
+2023-09-25,Transport,626.36,Cash,Bus pass,0,9,2023,2023-09,Monday,3
+2023-09-25,Shopping,706.7,Credit Card,Footwear,0,9,2023,2023-09,Monday,3
+2023-09-26,Healthcare,599.86,UPI,Pharmacy,0,9,2023,2023-09,Tuesday,3
+2023-09-27,Food & Dining,1524.92,Net Banking,Restaurant dinner,0,9,2023,2023-09,Wednesday,3
+2023-09-29,Entertainment,443.39,Debit Card,Gaming purchase,0,9,2023,2023-09,Friday,3
+2023-09-30,Food & Dining,1689.94,Net Banking,Bakery,1,9,2023,2023-09,Saturday,3
+2023-10-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,10,2023,2023-10,Sunday,4
+2023-10-02,Utilities,606.95,Net Banking,Electricity bill,0,10,2023,2023-10,Monday,4
+2023-10-03,Miscellaneous,799.3,UPI,Miscellaneous,0,10,2023,2023-10,Tuesday,4
+2023-10-03,Utilities,539.24,Credit Card,Electricity bill,0,10,2023,2023-10,Tuesday,4
+2023-10-03,Shopping,1577.92,Credit Card,Amazon order,0,10,2023,2023-10,Tuesday,4
+2023-10-04,Miscellaneous,1512.35,Debit Card,Lost wallet recharge,0,10,2023,2023-10,Wednesday,4
+2023-10-05,Entertainment,1483.63,Net Banking,OTT subscription,0,10,2023,2023-10,Thursday,4
+2023-10-08,Education,412.15,Debit Card,Stationery,1,10,2023,2023-10,Sunday,4
+2023-10-08,Utilities,759.94,Credit Card,DTH recharge,1,10,2023,2023-10,Sunday,4
+2023-10-09,Miscellaneous,272.42,Credit Card,Lost wallet recharge,0,10,2023,2023-10,Monday,4
+2023-10-09,Utilities,691.53,UPI,Water bill,0,10,2023,2023-10,Monday,4
+2023-10-10,Food & Dining,3290.87,Cash,Grocery store,0,10,2023,2023-10,Tuesday,4
+2023-10-10,Healthcare,1584.53,Net Banking,Health supplement,0,10,2023,2023-10,Tuesday,4
+2023-10-13,Miscellaneous,2839.49,Net Banking,House repair,0,10,2023,2023-10,Friday,4
+2023-10-14,Utilities,695.38,Cash,DTH recharge,1,10,2023,2023-10,Saturday,4
+2023-10-15,Healthcare,1595.86,Cash,Lab test,1,10,2023,2023-10,Sunday,4
+2023-10-15,Food & Dining,3494.88,Debit Card,Swiggy,1,10,2023,2023-10,Sunday,4
+2023-10-16,Education,488.39,Debit Card,Online course,0,10,2023,2023-10,Monday,4
+2023-10-16,Miscellaneous,1425.72,Net Banking,Emergency purchase,0,10,2023,2023-10,Monday,4
+2023-10-16,Entertainment,1223.95,UPI,Gaming purchase,0,10,2023,2023-10,Monday,4
+2023-10-18,Miscellaneous,639.16,Credit Card,Miscellaneous,0,10,2023,2023-10,Wednesday,4
+2023-10-18,Shopping,1461.34,Cash,Home décor,0,10,2023,2023-10,Wednesday,4
+2023-10-20,Shopping,2261.91,Net Banking,Flipkart,0,10,2023,2023-10,Friday,4
+2023-10-21,Entertainment,1854.07,UPI,Movie tickets,1,10,2023,2023-10,Saturday,4
+2023-10-22,Education,657.69,Credit Card,Stationery,1,10,2023,2023-10,Sunday,4
+2023-10-23,Education,569.78,Cash,Online course,0,10,2023,2023-10,Monday,4
+2023-10-25,Shopping,1992.75,Net Banking,Electronics,0,10,2023,2023-10,Wednesday,4
+2023-10-26,Miscellaneous,852.45,Debit Card,Other expense,0,10,2023,2023-10,Thursday,4
+2023-10-26,Education,727.59,Net Banking,Books,0,10,2023,2023-10,Thursday,4
+2023-10-27,Transport,1776.78,UPI,Auto fare,0,10,2023,2023-10,Friday,4
+2023-10-28,Food & Dining,2642.19,UPI,Coffee shop,1,10,2023,2023-10,Saturday,4
+2023-10-28,Food & Dining,3305.72,Cash,Zomato order,1,10,2023,2023-10,Saturday,4
+2023-10-28,Healthcare,1846.13,Net Banking,Gym membership,1,10,2023,2023-10,Saturday,4
+2023-10-29,Miscellaneous,1409.68,Debit Card,House repair,0,10,2023,2023-10,Sunday,4
+2023-10-30,Miscellaneous,600.07,Debit Card,Miscellaneous,0,10,2023,2023-10,Monday,4
+2023-10-31,Food & Dining,3243.25,UPI,Restaurant dinner,0,10,2023,2023-10,Tuesday,4
+2023-10-31,Transport,1765.74,Cash,Ola/Uber ride,0,10,2023,2023-10,Tuesday,4
+2023-10-31,Utilities,722.38,Credit Card,Water bill,0,10,2023,2023-10,Tuesday,4
+2023-11-01,Education,1040.25,Net Banking,Books,0,11,2023,2023-11,Wednesday,4
+2023-11-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,11,2023,2023-11,Wednesday,4
+2023-11-01,Food & Dining,1707.45,Debit Card,Coffee shop,0,11,2023,2023-11,Wednesday,4
+2023-11-02,Shopping,2434.38,Cash,Amazon order,0,11,2023,2023-11,Thursday,4
+2023-11-02,Food & Dining,2336.07,Credit Card,Grocery store,0,11,2023,2023-11,Thursday,4
+2023-11-04,Miscellaneous,105.19,Credit Card,Other expense,1,11,2023,2023-11,Saturday,4
+2023-11-04,Entertainment,1491.02,Credit Card,OTT subscription,1,11,2023,2023-11,Saturday,4
+2023-11-04,Healthcare,210.99,Cash,Health supplement,1,11,2023,2023-11,Saturday,4
+2023-11-06,Transport,614.55,Net Banking,Auto fare,0,11,2023,2023-11,Monday,4
+2023-11-07,Utilities,530.85,Net Banking,Internet bill,0,11,2023,2023-11,Tuesday,4
+2023-11-08,Miscellaneous,77.48,UPI,Other expense,0,11,2023,2023-11,Wednesday,4
+2023-11-09,Utilities,448.98,Net Banking,Water bill,0,11,2023,2023-11,Thursday,4
+2023-11-09,Miscellaneous,2363.49,Cash,Car repair,0,11,2023,2023-11,Thursday,4
+2023-11-11,Entertainment,1557.68,Debit Card,Sports event,1,11,2023,2023-11,Saturday,4
+2023-11-11,Healthcare,221.5,Debit Card,Lab test,1,11,2023,2023-11,Saturday,4
+2023-11-14,Entertainment,1280.85,Cash,OTT subscription,0,11,2023,2023-11,Tuesday,4
+2023-11-15,Miscellaneous,1743.54,Cash,Surprise gift,0,11,2023,2023-11,Wednesday,4
+2023-11-15,Healthcare,234.38,Cash,Pharmacy,0,11,2023,2023-11,Wednesday,4
+2023-11-16,Transport,835.31,Debit Card,Auto fare,0,11,2023,2023-11,Thursday,4
+2023-11-17,Transport,674.31,Cash,Petrol,0,11,2023,2023-11,Friday,4
+2023-11-18,Education,1160.75,UPI,Certification exam,1,11,2023,2023-11,Saturday,4
+2023-11-20,Utilities,557.06,Cash,Mobile recharge,0,11,2023,2023-11,Monday,4
+2023-11-21,Transport,723.76,Cash,Ola/Uber ride,0,11,2023,2023-11,Tuesday,4
+2023-11-22,Shopping,1542.41,Cash,Home décor,0,11,2023,2023-11,Wednesday,4
+2023-11-23,Education,1452.84,Credit Card,Stationery,0,11,2023,2023-11,Thursday,4
+2023-11-25,Utilities,380.41,UPI,Water bill,1,11,2023,2023-11,Saturday,4
+2023-11-27,Healthcare,207.49,UPI,Health supplement,0,11,2023,2023-11,Monday,4
+2023-11-27,Miscellaneous,1551.0,Cash,Surprise gift,0,11,2023,2023-11,Monday,4
+2023-11-27,Food & Dining,2094.45,Net Banking,Coffee shop,0,11,2023,2023-11,Monday,4
+2023-11-29,Education,1079.8,Cash,Online course,0,11,2023,2023-11,Wednesday,4
+2023-11-30,Education,956.72,Debit Card,Coaching fee,0,11,2023,2023-11,Thursday,4
+2023-11-30,Miscellaneous,90.5,Debit Card,Other expense,0,11,2023,2023-11,Thursday,4
+2023-11-30,Miscellaneous,1878.26,Credit Card,Emergency purchase,0,11,2023,2023-11,Thursday,4
+2023-11-30,Miscellaneous,2405.61,Debit Card,Emergency purchase,0,11,2023,2023-11,Thursday,4
+2023-12-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,12,2023,2023-12,Friday,4
+2023-12-01,Healthcare,149.72,Credit Card,Gym membership,0,12,2023,2023-12,Friday,4
+2023-12-02,Miscellaneous,1108.25,UPI,Car repair,0,12,2023,2023-12,Saturday,4
+2023-12-04,Healthcare,156.98,Net Banking,Gym membership,0,12,2023,2023-12,Monday,4
+2023-12-08,Entertainment,381.19,Net Banking,Concert,0,12,2023,2023-12,Friday,4
+2023-12-08,Entertainment,347.8,Cash,Netflix,0,12,2023,2023-12,Friday,4
+2023-12-10,Food & Dining,4593.91,Debit Card,Bakery,1,12,2023,2023-12,Sunday,4
+2023-12-11,Transport,782.06,Net Banking,Bus pass,0,12,2023,2023-12,Monday,4
+2023-12-11,Entertainment,499.79,Cash,Sports event,0,12,2023,2023-12,Monday,4
+2023-12-13,Transport,1103.27,Cash,Petrol,0,12,2023,2023-12,Wednesday,4
+2023-12-13,Utilities,934.58,Debit Card,Mobile recharge,0,12,2023,2023-12,Wednesday,4
+2023-12-15,Miscellaneous,665.82,Debit Card,Emergency purchase,0,12,2023,2023-12,Friday,4
+2023-12-16,Transport,1097.45,Credit Card,Auto fare,1,12,2023,2023-12,Saturday,4
+2023-12-16,Healthcare,130.32,Debit Card,Lab test,1,12,2023,2023-12,Saturday,4
+2023-12-17,Shopping,263.04,Net Banking,Clothing store,1,12,2023,2023-12,Sunday,4
+2023-12-18,Transport,908.51,Cash,Petrol,0,12,2023,2023-12,Monday,4
+2023-12-19,Food & Dining,5285.56,Net Banking,Street food,0,12,2023,2023-12,Tuesday,4
+2023-12-20,Education,585.02,UPI,Books,0,12,2023,2023-12,Wednesday,4
+2023-12-20,Utilities,990.05,Cash,Electricity bill,0,12,2023,2023-12,Wednesday,4
+2023-12-21,Education,705.19,Debit Card,Books,0,12,2023,2023-12,Thursday,4
+2023-12-22,Shopping,260.51,Credit Card,Electronics,0,12,2023,2023-12,Friday,4
+2023-12-24,Education,575.22,UPI,Coaching fee,1,12,2023,2023-12,Sunday,4
+2023-12-28,Healthcare,145.45,Credit Card,Pharmacy,0,12,2023,2023-12,Thursday,4
+2023-12-28,Entertainment,426.3,Credit Card,Sports event,0,12,2023,2023-12,Thursday,4
+2023-12-28,Shopping,251.27,UPI,Electronics,0,12,2023,2023-12,Thursday,4
+2023-12-28,Utilities,785.83,Debit Card,DTH recharge,0,12,2023,2023-12,Thursday,4
+2023-12-28,Education,702.53,Net Banking,Online course,0,12,2023,2023-12,Thursday,4
+2023-12-30,Shopping,313.07,Cash,Electronics,1,12,2023,2023-12,Saturday,4
+2023-12-31,Shopping,267.59,UPI,Flipkart,1,12,2023,2023-12,Sunday,4
+2024-01-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,1,2024,2024-01,Monday,1
+2024-01-01,Education,1312.52,Net Banking,Online course,0,1,2024,2024-01,Monday,1
+2024-01-05,Food & Dining,2643.05,Credit Card,Coffee shop,0,1,2024,2024-01,Friday,1
+2024-01-06,Transport,1435.29,UPI,Bus pass,1,1,2024,2024-01,Saturday,1
+2024-01-08,Utilities,489.04,Cash,DTH recharge,0,1,2024,2024-01,Monday,1
+2024-01-08,Entertainment,1116.32,Cash,Sports event,0,1,2024,2024-01,Monday,1
+2024-01-09,Shopping,1245.23,Cash,Clothing store,0,1,2024,2024-01,Tuesday,1
+2024-01-10,Healthcare,217.67,Cash,Lab test,0,1,2024,2024-01,Wednesday,1
+2024-01-12,Utilities,493.4,Net Banking,Internet bill,0,1,2024,2024-01,Friday,1
+2024-01-12,Food & Dining,2084.82,Debit Card,Grocery store,0,1,2024,2024-01,Friday,1
+2024-01-13,Healthcare,231.38,Cash,Pharmacy,1,1,2024,2024-01,Saturday,1
+2024-01-14,Food & Dining,2354.13,Net Banking,Street food,1,1,2024,2024-01,Sunday,1
+2024-01-15,Healthcare,225.77,Debit Card,Health supplement,0,1,2024,2024-01,Monday,1
+2024-01-15,Healthcare,261.92,Debit Card,Doctor consultation,0,1,2024,2024-01,Monday,1
+2024-01-18,Shopping,1918.63,Credit Card,Amazon order,0,1,2024,2024-01,Thursday,1
+2024-01-20,Miscellaneous,160.11,Debit Card,Miscellaneous,1,1,2024,2024-01,Saturday,1
+2024-01-20,Education,1089.78,Debit Card,Books,1,1,2024,2024-01,Saturday,1
+2024-01-22,Entertainment,1227.77,Credit Card,Concert,0,1,2024,2024-01,Monday,1
+2024-01-22,Shopping,1742.36,UPI,Electronics,0,1,2024,2024-01,Monday,1
+2024-01-23,Utilities,558.85,Debit Card,Electricity bill,0,1,2024,2024-01,Tuesday,1
+2024-01-26,Miscellaneous,1434.3,Net Banking,Car repair,0,1,2024,2024-01,Friday,1
+2024-01-26,Food & Dining,2388.1,Credit Card,Swiggy,0,1,2024,2024-01,Friday,1
+2024-01-27,Utilities,494.32,Cash,Internet bill,1,1,2024,2024-01,Saturday,1
+2024-01-27,Education,1370.0,Debit Card,Books,1,1,2024,2024-01,Saturday,1
+2024-01-28,Transport,1241.22,Cash,Bus pass,1,1,2024,2024-01,Sunday,1
+2024-01-29,Miscellaneous,1956.88,UPI,Car repair,0,1,2024,2024-01,Monday,1
+2024-01-29,Shopping,2150.2,Debit Card,Footwear,0,1,2024,2024-01,Monday,1
+2024-01-30,Entertainment,1512.56,Net Banking,Movie tickets,0,1,2024,2024-01,Tuesday,1
+2024-01-30,Education,1104.07,Net Banking,Coaching fee,0,1,2024,2024-01,Tuesday,1
+2024-02-01,Utilities,500.43,Net Banking,DTH recharge,0,2,2024,2024-02,Thursday,1
+2024-02-01,Shopping,668.31,Debit Card,Home décor,0,2,2024,2024-02,Thursday,1
+2024-02-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,2,2024,2024-02,Thursday,1
+2024-02-02,Education,1467.26,Debit Card,Coaching fee,0,2,2024,2024-02,Friday,1
+2024-02-04,Education,1215.94,Credit Card,Online course,1,2,2024,2024-02,Sunday,1
+2024-02-04,Shopping,775.0,Cash,Clothing store,1,2,2024,2024-02,Sunday,1
+2024-02-05,Transport,318.65,Net Banking,Petrol,0,2,2024,2024-02,Monday,1
+2024-02-08,Miscellaneous,1206.23,Net Banking,Miscellaneous,0,2,2024,2024-02,Thursday,1
+2024-02-08,Miscellaneous,2595.26,UPI,Lost wallet recharge,0,2,2024,2024-02,Thursday,1
+2024-02-10,Food & Dining,3649.23,Debit Card,Street food,1,2,2024,2024-02,Saturday,1
+2024-02-11,Utilities,566.51,Net Banking,Water bill,1,2,2024,2024-02,Sunday,1
+2024-02-12,Shopping,862.27,UPI,Electronics,0,2,2024,2024-02,Monday,1
+2024-02-13,Healthcare,799.23,Debit Card,Pharmacy,0,2,2024,2024-02,Tuesday,1
+2024-02-13,Miscellaneous,1089.26,Cash,Other expense,0,2,2024,2024-02,Tuesday,1
+2024-02-14,Miscellaneous,2829.35,Debit Card,Emergency purchase,0,2,2024,2024-02,Wednesday,1
+2024-02-14,Food & Dining,2587.93,Credit Card,Swiggy,0,2,2024,2024-02,Wednesday,1
+2024-02-15,Entertainment,698.69,UPI,Movie tickets,0,2,2024,2024-02,Thursday,1
+2024-02-17,Transport,343.36,Net Banking,Petrol,1,2,2024,2024-02,Saturday,1
+2024-02-19,Miscellaneous,2278.35,Credit Card,Medical emergency,0,2,2024,2024-02,Monday,1
+2024-02-21,Miscellaneous,477.26,Cash,House repair,0,2,2024,2024-02,Wednesday,1
+2024-02-21,Utilities,597.05,UPI,Mobile recharge,0,2,2024,2024-02,Wednesday,1
+2024-02-22,Healthcare,726.21,Debit Card,Health supplement,0,2,2024,2024-02,Thursday,1
+2024-02-22,Healthcare,638.68,Credit Card,Gym membership,0,2,2024,2024-02,Thursday,1
+2024-02-23,Miscellaneous,1237.48,Cash,Medical emergency,0,2,2024,2024-02,Friday,1
+2024-02-23,Education,1377.75,Debit Card,Coaching fee,0,2,2024,2024-02,Friday,1
+2024-02-24,Entertainment,741.84,Debit Card,Netflix,1,2,2024,2024-02,Saturday,1
+2024-02-24,Food & Dining,4353.4,Credit Card,Zomato order,1,2,2024,2024-02,Saturday,1
+2024-02-24,Entertainment,702.76,Cash,Gaming purchase,1,2,2024,2024-02,Saturday,1
+2024-02-25,Entertainment,696.01,Credit Card,Sports event,1,2,2024,2024-02,Sunday,1
+2024-02-27,Transport,360.58,Cash,Petrol,0,2,2024,2024-02,Tuesday,1
+2024-02-27,Transport,239.51,Credit Card,Petrol,0,2,2024,2024-02,Tuesday,1
+2024-03-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,3,2024,2024-03,Friday,1
+2024-03-01,Shopping,553.9,Debit Card,Flipkart,0,3,2024,2024-03,Friday,1
+2024-03-01,Entertainment,463.04,Debit Card,Movie tickets,0,3,2024,2024-03,Friday,1
+2024-03-02,Education,608.01,Net Banking,Stationery,1,3,2024,2024-03,Saturday,1
+2024-03-02,Transport,1019.15,Debit Card,Metro card recharge,1,3,2024,2024-03,Saturday,1
+2024-03-03,Miscellaneous,553.34,Net Banking,Lost wallet recharge,0,3,2024,2024-03,Sunday,1
+2024-03-03,Entertainment,440.33,Net Banking,Movie tickets,1,3,2024,2024-03,Sunday,1
+2024-03-04,Utilities,688.71,UPI,Mobile recharge,0,3,2024,2024-03,Monday,1
+2024-03-05,Transport,955.17,Net Banking,Metro card recharge,0,3,2024,2024-03,Tuesday,1
+2024-03-05,Entertainment,296.78,Net Banking,OTT subscription,0,3,2024,2024-03,Tuesday,1
+2024-03-05,Utilities,854.58,Cash,DTH recharge,0,3,2024,2024-03,Tuesday,1
+2024-03-06,Shopping,744.9,Debit Card,Amazon order,0,3,2024,2024-03,Wednesday,1
+2024-03-09,Food & Dining,2084.98,Credit Card,Zomato order,1,3,2024,2024-03,Saturday,1
+2024-03-11,Entertainment,401.08,Credit Card,Gaming purchase,0,3,2024,2024-03,Monday,1
+2024-03-12,Food & Dining,2156.83,Net Banking,Street food,0,3,2024,2024-03,Tuesday,1
+2024-03-12,Food & Dining,1608.53,UPI,Grocery store,0,3,2024,2024-03,Tuesday,1
+2024-03-15,Utilities,856.43,Debit Card,DTH recharge,0,3,2024,2024-03,Friday,1
+2024-03-16,Miscellaneous,317.14,Cash,Other expense,1,3,2024,2024-03,Saturday,1
+2024-03-17,Education,531.45,Credit Card,Certification exam,1,3,2024,2024-03,Sunday,1
+2024-03-19,Education,546.04,UPI,Coaching fee,0,3,2024,2024-03,Tuesday,1
+2024-03-19,Miscellaneous,1735.4,Debit Card,Medical emergency,0,3,2024,2024-03,Tuesday,1
+2024-03-19,Entertainment,390.25,Credit Card,Movie tickets,0,3,2024,2024-03,Tuesday,1
+2024-03-19,Shopping,827.77,Debit Card,Amazon order,0,3,2024,2024-03,Tuesday,1
+2024-03-20,Miscellaneous,1685.56,Cash,House repair,0,3,2024,2024-03,Wednesday,1
+2024-03-21,Transport,850.98,Net Banking,Ola/Uber ride,0,3,2024,2024-03,Thursday,1
+2024-03-22,Shopping,624.94,UPI,Flipkart,0,3,2024,2024-03,Friday,1
+2024-03-22,Miscellaneous,527.03,UPI,Other expense,0,3,2024,2024-03,Friday,1
+2024-03-22,Transport,700.54,Credit Card,Parking fee,0,3,2024,2024-03,Friday,1
+2024-03-23,Miscellaneous,383.63,Cash,Miscellaneous,1,3,2024,2024-03,Saturday,1
+2024-03-26,Shopping,689.62,Credit Card,Amazon order,0,3,2024,2024-03,Tuesday,1
+2024-03-29,Miscellaneous,381.04,UPI,Other expense,0,3,2024,2024-03,Friday,1
+2024-03-31,Food & Dining,2274.64,Cash,Zomato order,1,3,2024,2024-03,Sunday,1
+2024-03-31,Miscellaneous,364.91,UPI,Miscellaneous,1,3,2024,2024-03,Sunday,1
+2024-04-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,4,2024,2024-04,Monday,2
+2024-04-02,Utilities,356.64,Net Banking,DTH recharge,0,4,2024,2024-04,Tuesday,2
+2024-04-03,Shopping,1146.94,UPI,Amazon order,0,4,2024,2024-04,Wednesday,2
+2024-04-04,Education,1000.01,Net Banking,Certification exam,0,4,2024,2024-04,Thursday,2
+2024-04-04,Miscellaneous,386.65,Debit Card,Miscellaneous,0,4,2024,2024-04,Thursday,2
+2024-04-04,Miscellaneous,351.5,Debit Card,Other expense,0,4,2024,2024-04,Thursday,2
+2024-04-07,Education,886.77,Credit Card,Coaching fee,1,4,2024,2024-04,Sunday,2
+2024-04-09,Miscellaneous,2167.56,Debit Card,Car repair,0,4,2024,2024-04,Tuesday,2
+2024-04-09,Shopping,1226.09,Debit Card,Flipkart,0,4,2024,2024-04,Tuesday,2
+2024-04-11,Transport,822.38,Cash,Auto fare,0,4,2024,2024-04,Thursday,2
+2024-04-12,Miscellaneous,217.1,Credit Card,House repair,0,4,2024,2024-04,Friday,2
+2024-04-14,Healthcare,2054.19,UPI,Lab test,1,4,2024,2024-04,Sunday,2
+2024-04-14,Utilities,316.13,Debit Card,Mobile recharge,1,4,2024,2024-04,Sunday,2
+2024-04-14,Shopping,894.61,UPI,Clothing store,1,4,2024,2024-04,Sunday,2
+2024-04-14,Shopping,1231.69,Debit Card,Footwear,1,4,2024,2024-04,Sunday,2
+2024-04-15,Transport,868.74,Credit Card,Auto fare,0,4,2024,2024-04,Monday,2
+2024-04-18,Utilities,415.51,Debit Card,Electricity bill,0,4,2024,2024-04,Thursday,2
+2024-04-20,Food & Dining,3517.57,Cash,Zomato order,1,4,2024,2024-04,Saturday,2
+2024-04-20,Education,1037.51,Debit Card,Stationery,1,4,2024,2024-04,Saturday,2
+2024-04-20,Miscellaneous,419.71,Debit Card,Miscellaneous,1,4,2024,2024-04,Saturday,2
+2024-04-21,Food & Dining,3300.49,Net Banking,Street food,1,4,2024,2024-04,Sunday,2
+2024-04-22,Shopping,1024.3,Cash,Amazon order,0,4,2024,2024-04,Monday,2
+2024-04-22,Miscellaneous,1322.2,Credit Card,Lost wallet recharge,0,4,2024,2024-04,Monday,2
+2024-04-26,Miscellaneous,299.44,Cash,Miscellaneous,0,4,2024,2024-04,Friday,2
+2024-04-26,Healthcare,2144.94,Credit Card,Health supplement,0,4,2024,2024-04,Friday,2
+2024-04-26,Food & Dining,2527.72,UPI,Bakery,0,4,2024,2024-04,Friday,2
+2024-04-28,Transport,763.65,Credit Card,Auto fare,1,4,2024,2024-04,Sunday,2
+2024-04-28,Utilities,428.49,UPI,Internet bill,1,4,2024,2024-04,Sunday,2
+2024-05-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,5,2024,2024-05,Wednesday,2
+2024-05-02,Shopping,964.58,UPI,Clothing store,0,5,2024,2024-05,Thursday,2
+2024-05-02,Utilities,1116.95,Credit Card,Mobile recharge,0,5,2024,2024-05,Thursday,2
+2024-05-03,Miscellaneous,317.55,Cash,Miscellaneous,0,5,2024,2024-05,Friday,2
+2024-05-04,Healthcare,439.49,Debit Card,Gym membership,1,5,2024,2024-05,Saturday,2
+2024-05-04,Healthcare,312.33,Debit Card,Health supplement,1,5,2024,2024-05,Saturday,2
+2024-05-05,Shopping,1028.13,Credit Card,Home décor,1,5,2024,2024-05,Sunday,2
+2024-05-05,Miscellaneous,316.24,Cash,Miscellaneous,1,5,2024,2024-05,Sunday,2
+2024-05-07,Education,700.82,Debit Card,Books,0,5,2024,2024-05,Tuesday,2
+2024-05-09,Healthcare,416.5,Credit Card,Health supplement,0,5,2024,2024-05,Thursday,2
+2024-05-10,Transport,2201.04,Debit Card,Bus pass,0,5,2024,2024-05,Friday,2
+2024-05-10,Education,677.0,Debit Card,Online course,0,5,2024,2024-05,Friday,2
+2024-05-11,Transport,1407.75,Credit Card,Petrol,1,5,2024,2024-05,Saturday,2
+2024-05-13,Food & Dining,1897.14,Cash,Grocery store,0,5,2024,2024-05,Monday,2
+2024-05-13,Miscellaneous,2186.6,Cash,Car repair,0,5,2024,2024-05,Monday,2
+2024-05-14,Miscellaneous,199.51,UPI,Other expense,0,5,2024,2024-05,Tuesday,2
+2024-05-15,Shopping,1130.59,Cash,Electronics,0,5,2024,2024-05,Wednesday,2
+2024-05-16,Utilities,1178.09,Net Banking,Internet bill,0,5,2024,2024-05,Thursday,2
+2024-05-17,Miscellaneous,344.47,Net Banking,Other expense,0,5,2024,2024-05,Friday,2
+2024-05-20,Healthcare,397.18,Cash,Gym membership,0,5,2024,2024-05,Monday,2
+2024-05-20,Entertainment,4329.29,UPI,Netflix,0,5,2024,2024-05,Monday,2
+2024-05-20,Education,729.21,UPI,Online course,0,5,2024,2024-05,Monday,2
+2024-05-21,Food & Dining,2783.78,UPI,Zomato order,0,5,2024,2024-05,Tuesday,2
+2024-05-24,Miscellaneous,286.2,Cash,Miscellaneous,0,5,2024,2024-05,Friday,2
+2024-05-24,Food & Dining,2151.18,Net Banking,Swiggy,0,5,2024,2024-05,Friday,2
+2024-05-25,Education,816.76,Credit Card,Stationery,1,5,2024,2024-05,Saturday,2
+2024-05-28,Miscellaneous,1076.57,Cash,House repair,0,5,2024,2024-05,Tuesday,2
+2024-06-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,6,2024,2024-06,Saturday,2
+2024-06-02,Miscellaneous,228.35,UPI,Other expense,1,6,2024,2024-06,Sunday,2
+2024-06-03,Miscellaneous,1612.74,Credit Card,Emergency purchase,0,6,2024,2024-06,Monday,2
+2024-06-04,Shopping,1150.26,Credit Card,Clothing store,0,6,2024,2024-06,Tuesday,2
+2024-06-04,Food & Dining,3545.21,Cash,Zomato order,0,6,2024,2024-06,Tuesday,2
+2024-06-05,Healthcare,954.67,UPI,Doctor consultation,0,6,2024,2024-06,Wednesday,2
+2024-06-07,Healthcare,858.48,Credit Card,Health supplement,0,6,2024,2024-06,Friday,2
+2024-06-08,Miscellaneous,2181.34,Cash,House repair,0,6,2024,2024-06,Saturday,2
+2024-06-11,Food & Dining,3805.59,Credit Card,Bakery,0,6,2024,2024-06,Tuesday,2
+2024-06-11,Utilities,994.49,Debit Card,Water bill,0,6,2024,2024-06,Tuesday,2
+2024-06-11,Shopping,854.15,Credit Card,Clothing store,0,6,2024,2024-06,Tuesday,2
+2024-06-12,Shopping,846.32,Credit Card,Flipkart,0,6,2024,2024-06,Wednesday,2
+2024-06-14,Transport,828.3,UPI,Metro card recharge,0,6,2024,2024-06,Friday,2
+2024-06-14,Entertainment,326.74,Net Banking,Concert,0,6,2024,2024-06,Friday,2
+2024-06-15,Miscellaneous,309.52,Net Banking,Miscellaneous,1,6,2024,2024-06,Saturday,2
+2024-06-15,Education,737.45,Debit Card,Stationery,1,6,2024,2024-06,Saturday,2
+2024-06-15,Miscellaneous,489.81,Debit Card,Lost wallet recharge,0,6,2024,2024-06,Saturday,2
+2024-06-15,Education,632.77,UPI,Coaching fee,1,6,2024,2024-06,Saturday,2
+2024-06-15,Utilities,831.69,Net Banking,DTH recharge,1,6,2024,2024-06,Saturday,2
+2024-06-17,Education,818.48,UPI,Stationery,0,6,2024,2024-06,Monday,2
+2024-06-17,Shopping,759.34,Credit Card,Clothing store,0,6,2024,2024-06,Monday,2
+2024-06-17,Shopping,918.41,UPI,Home décor,0,6,2024,2024-06,Monday,2
+2024-06-17,Entertainment,443.27,UPI,Concert,0,6,2024,2024-06,Monday,2
+2024-06-19,Education,796.99,UPI,Stationery,0,6,2024,2024-06,Wednesday,2
+2024-06-20,Miscellaneous,1531.76,Credit Card,Emergency purchase,0,6,2024,2024-06,Thursday,2
+2024-06-20,Transport,930.85,Cash,Parking fee,0,6,2024,2024-06,Thursday,2
+2024-06-21,Miscellaneous,311.69,UPI,Other expense,0,6,2024,2024-06,Friday,2
+2024-06-25,Utilities,1004.76,Net Banking,DTH recharge,0,6,2024,2024-06,Tuesday,2
+2024-06-25,Healthcare,1214.63,Cash,Gym membership,0,6,2024,2024-06,Tuesday,2
+2024-06-25,Shopping,724.1,Credit Card,Amazon order,0,6,2024,2024-06,Tuesday,2
+2024-06-27,Miscellaneous,301.82,Debit Card,Miscellaneous,0,6,2024,2024-06,Thursday,2
+2024-06-28,Entertainment,328.26,Debit Card,Sports event,0,6,2024,2024-06,Friday,2
+2024-06-30,Miscellaneous,2467.48,Credit Card,Car repair,0,6,2024,2024-06,Sunday,2
+2024-06-30,Transport,953.51,Debit Card,Ola/Uber ride,1,6,2024,2024-06,Sunday,2
+2024-07-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,7,2024,2024-07,Monday,3
+2024-07-02,Utilities,326.09,Debit Card,DTH recharge,0,7,2024,2024-07,Tuesday,3
+2024-07-03,Utilities,318.67,Debit Card,Electricity bill,0,7,2024,2024-07,Wednesday,3
+2024-07-05,Education,784.72,Credit Card,Books,0,7,2024,2024-07,Friday,3
+2024-07-05,Utilities,259.34,Net Banking,Mobile recharge,0,7,2024,2024-07,Friday,3
+2024-07-08,Utilities,292.42,Credit Card,Water bill,0,7,2024,2024-07,Monday,3
+2024-07-09,Transport,491.72,Net Banking,Metro card recharge,0,7,2024,2024-07,Tuesday,3
+2024-07-10,Entertainment,583.48,Cash,Movie tickets,0,7,2024,2024-07,Wednesday,3
+2024-07-10,Healthcare,517.55,Credit Card,Doctor consultation,0,7,2024,2024-07,Wednesday,3
+2024-07-11,Transport,414.44,UPI,Bus pass,0,7,2024,2024-07,Thursday,3
+2024-07-11,Food & Dining,1969.41,Net Banking,Zomato order,0,7,2024,2024-07,Thursday,3
+2024-07-11,Healthcare,437.79,Cash,Doctor consultation,0,7,2024,2024-07,Thursday,3
+2024-07-11,Transport,545.22,UPI,Bus pass,0,7,2024,2024-07,Thursday,3
+2024-07-12,Healthcare,397.2,UPI,Lab test,0,7,2024,2024-07,Friday,3
+2024-07-12,Food & Dining,1830.7,Debit Card,Restaurant dinner,0,7,2024,2024-07,Friday,3
+2024-07-13,Food & Dining,1805.98,Cash,Bakery,1,7,2024,2024-07,Saturday,3
+2024-07-14,Education,1026.52,Debit Card,Books,1,7,2024,2024-07,Sunday,3
+2024-07-15,Education,764.8,Net Banking,Stationery,0,7,2024,2024-07,Monday,3
+2024-07-17,Utilities,284.63,Net Banking,DTH recharge,0,7,2024,2024-07,Wednesday,3
+2024-07-17,Miscellaneous,1372.25,Credit Card,Surprise gift,0,7,2024,2024-07,Wednesday,3
+2024-07-17,Food & Dining,1977.61,Net Banking,Swiggy,0,7,2024,2024-07,Wednesday,3
+2024-07-18,Entertainment,588.58,Cash,Sports event,0,7,2024,2024-07,Thursday,3
+2024-07-18,Miscellaneous,222.61,Credit Card,Other expense,0,7,2024,2024-07,Thursday,3
+2024-07-20,Entertainment,834.02,UPI,OTT subscription,1,7,2024,2024-07,Saturday,3
+2024-07-21,Shopping,1339.55,Cash,Home décor,1,7,2024,2024-07,Sunday,3
+2024-07-22,Shopping,1046.27,Net Banking,Amazon order,0,7,2024,2024-07,Monday,3
+2024-07-22,Transport,572.79,Cash,Petrol,0,7,2024,2024-07,Monday,3
+2024-07-22,Miscellaneous,2851.96,Cash,Medical emergency,0,7,2024,2024-07,Monday,3
+2024-07-22,Entertainment,721.45,Credit Card,OTT subscription,0,7,2024,2024-07,Monday,3
+2024-07-24,Education,1010.81,Cash,Online course,0,7,2024,2024-07,Wednesday,3
+2024-07-25,Miscellaneous,988.96,Cash,House repair,0,7,2024,2024-07,Thursday,3
+2024-07-26,Shopping,1164.78,Debit Card,Flipkart,0,7,2024,2024-07,Friday,3
+2024-07-26,Food & Dining,1907.82,Debit Card,Zomato order,0,7,2024,2024-07,Friday,3
+2024-07-26,Miscellaneous,206.12,Cash,Miscellaneous,0,7,2024,2024-07,Friday,3
+2024-07-26,Miscellaneous,1893.06,Debit Card,Emergency purchase,0,7,2024,2024-07,Friday,3
+2024-07-27,Education,774.43,Net Banking,Books,1,7,2024,2024-07,Saturday,3
+2024-07-31,Miscellaneous,219.3,Cash,Miscellaneous,0,7,2024,2024-07,Wednesday,3
+2024-08-01,Utilities,316.4,Debit Card,Water bill,0,8,2024,2024-08,Thursday,3
+2024-08-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,8,2024,2024-08,Thursday,3
+2024-08-02,Education,696.99,Credit Card,Coaching fee,0,8,2024,2024-08,Friday,3
+2024-08-04,Transport,701.96,Debit Card,Ola/Uber ride,1,8,2024,2024-08,Sunday,3
+2024-08-04,Miscellaneous,263.52,Cash,Miscellaneous,1,8,2024,2024-08,Sunday,3
+2024-08-05,Healthcare,153.22,UPI,Lab test,0,8,2024,2024-08,Monday,3
+2024-08-06,Miscellaneous,2060.24,UPI,House repair,0,8,2024,2024-08,Tuesday,3
+2024-08-08,Shopping,1134.77,UPI,Clothing store,0,8,2024,2024-08,Thursday,3
+2024-08-08,Education,770.79,Debit Card,Online course,0,8,2024,2024-08,Thursday,3
+2024-08-12,Food & Dining,3265.49,Net Banking,Zomato order,0,8,2024,2024-08,Monday,3
+2024-08-13,Shopping,870.94,UPI,Clothing store,0,8,2024,2024-08,Tuesday,3
+2024-08-14,Education,1030.56,UPI,Stationery,0,8,2024,2024-08,Wednesday,3
+2024-08-14,Entertainment,676.55,UPI,Concert,0,8,2024,2024-08,Wednesday,3
+2024-08-15,Transport,588.1,Net Banking,Metro card recharge,0,8,2024,2024-08,Thursday,3
+2024-08-17,Entertainment,895.08,Debit Card,Movie tickets,1,8,2024,2024-08,Saturday,3
+2024-08-20,Miscellaneous,206.6,Cash,Miscellaneous,0,8,2024,2024-08,Tuesday,3
+2024-08-20,Miscellaneous,1187.88,Net Banking,Medical emergency,0,8,2024,2024-08,Tuesday,3
+2024-08-20,Utilities,442.29,UPI,Electricity bill,0,8,2024,2024-08,Tuesday,3
+2024-08-21,Food & Dining,2742.4,Cash,Bakery,0,8,2024,2024-08,Wednesday,3
+2024-08-21,Healthcare,178.87,Debit Card,Doctor consultation,0,8,2024,2024-08,Wednesday,3
+2024-08-23,Food & Dining,2252.58,Net Banking,Bakery,0,8,2024,2024-08,Friday,3
+2024-08-23,Miscellaneous,602.02,Cash,Emergency purchase,0,8,2024,2024-08,Friday,3
+2024-08-25,Utilities,429.3,Cash,Mobile recharge,1,8,2024,2024-08,Sunday,3
+2024-08-25,Transport,778.79,Credit Card,Petrol,1,8,2024,2024-08,Sunday,3
+2024-08-27,Utilities,328.16,Credit Card,DTH recharge,0,8,2024,2024-08,Tuesday,3
+2024-08-27,Transport,747.77,Cash,Ola/Uber ride,0,8,2024,2024-08,Tuesday,3
+2024-08-29,Entertainment,1023.64,Debit Card,Netflix,0,8,2024,2024-08,Thursday,3
+2024-08-30,Healthcare,182.92,Cash,Doctor consultation,0,8,2024,2024-08,Friday,3
+2024-08-30,Shopping,1168.21,UPI,Footwear,0,8,2024,2024-08,Friday,3
+2024-08-31,Education,870.02,Net Banking,Certification exam,1,8,2024,2024-08,Saturday,3
+2024-08-31,Entertainment,1014.73,Credit Card,Concert,1,8,2024,2024-08,Saturday,3
+2024-09-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,9,2024,2024-09,Sunday,3
+2024-09-02,Entertainment,575.9,Debit Card,Gaming purchase,0,9,2024,2024-09,Monday,3
+2024-09-03,Miscellaneous,382.4,Cash,Miscellaneous,0,9,2024,2024-09,Tuesday,3
+2024-09-03,Miscellaneous,1118.18,Debit Card,Car repair,0,9,2024,2024-09,Tuesday,3
+2024-09-04,Utilities,668.39,Debit Card,Mobile recharge,0,9,2024,2024-09,Wednesday,3
+2024-09-06,Shopping,1235.94,Credit Card,Amazon order,0,9,2024,2024-09,Friday,3
+2024-09-06,Education,1021.71,Cash,Coaching fee,0,9,2024,2024-09,Friday,3
+2024-09-08,Entertainment,811.43,UPI,Gaming purchase,1,9,2024,2024-09,Sunday,3
+2024-09-09,Utilities,401.71,UPI,Water bill,0,9,2024,2024-09,Monday,3
+2024-09-09,Transport,1110.33,UPI,Petrol,0,9,2024,2024-09,Monday,3
+2024-09-10,Shopping,1497.15,Credit Card,Amazon order,0,9,2024,2024-09,Tuesday,3
+2024-09-10,Utilities,561.13,Debit Card,Electricity bill,0,9,2024,2024-09,Tuesday,3
+2024-09-11,Shopping,1530.55,Credit Card,Footwear,0,9,2024,2024-09,Wednesday,3
+2024-09-11,Healthcare,650.26,Debit Card,Health supplement,0,9,2024,2024-09,Wednesday,3
+2024-09-12,Food & Dining,2771.72,UPI,Coffee shop,0,9,2024,2024-09,Thursday,3
+2024-09-13,Transport,1005.66,Cash,Ola/Uber ride,0,9,2024,2024-09,Friday,3
+2024-09-13,Healthcare,771.63,Net Banking,Gym membership,0,9,2024,2024-09,Friday,3
+2024-09-15,Shopping,1391.08,Cash,Footwear,1,9,2024,2024-09,Sunday,3
+2024-09-15,Miscellaneous,1887.34,Cash,Surprise gift,0,9,2024,2024-09,Sunday,3
+2024-09-17,Food & Dining,3831.75,Net Banking,Zomato order,0,9,2024,2024-09,Tuesday,3
+2024-09-18,Food & Dining,3273.86,Net Banking,Bakery,0,9,2024,2024-09,Wednesday,3
+2024-09-18,Miscellaneous,431.42,Debit Card,Other expense,0,9,2024,2024-09,Wednesday,3
+2024-09-21,Transport,958.42,Cash,Petrol,1,9,2024,2024-09,Saturday,3
+2024-09-23,Shopping,1295.62,Cash,Amazon order,0,9,2024,2024-09,Monday,3
+2024-09-24,Entertainment,601.04,Debit Card,Movie tickets,0,9,2024,2024-09,Tuesday,3
+2024-09-26,Entertainment,582.59,UPI,OTT subscription,0,9,2024,2024-09,Thursday,3
+2024-09-26,Miscellaneous,381.98,Net Banking,Other expense,0,9,2024,2024-09,Thursday,3
+2024-09-26,Miscellaneous,346.7,UPI,Other expense,0,9,2024,2024-09,Thursday,3
+2024-09-26,Healthcare,609.27,Credit Card,Pharmacy,0,9,2024,2024-09,Thursday,3
+2024-09-28,Utilities,553.5,Debit Card,Internet bill,1,9,2024,2024-09,Saturday,3
+2024-09-29,Education,1075.3,Cash,Coaching fee,1,9,2024,2024-09,Sunday,3
+2024-09-29,Education,1281.79,Cash,Stationery,1,9,2024,2024-09,Sunday,3
+2024-10-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,10,2024,2024-10,Tuesday,4
+2024-10-03,Miscellaneous,524.55,Debit Card,Other expense,0,10,2024,2024-10,Thursday,4
+2024-10-04,Miscellaneous,558.66,Credit Card,Miscellaneous,0,10,2024,2024-10,Friday,4
+2024-10-04,Education,970.25,Debit Card,Stationery,0,10,2024,2024-10,Friday,4
+2024-10-05,Shopping,1086.91,UPI,Flipkart,1,10,2024,2024-10,Saturday,4
+2024-10-05,Utilities,437.14,Net Banking,Internet bill,1,10,2024,2024-10,Saturday,4
+2024-10-05,Shopping,887.94,Net Banking,Footwear,1,10,2024,2024-10,Saturday,4
+2024-10-08,Utilities,424.22,UPI,Electricity bill,0,10,2024,2024-10,Tuesday,4
+2024-10-10,Miscellaneous,543.75,Cash,Miscellaneous,0,10,2024,2024-10,Thursday,4
+2024-10-13,Utilities,456.22,Debit Card,Internet bill,1,10,2024,2024-10,Sunday,4
+2024-10-13,Healthcare,1956.75,Net Banking,Pharmacy,1,10,2024,2024-10,Sunday,4
+2024-10-14,Transport,2206.64,Debit Card,Parking fee,0,10,2024,2024-10,Monday,4
+2024-10-15,Utilities,394.47,UPI,DTH recharge,0,10,2024,2024-10,Tuesday,4
+2024-10-15,Food & Dining,6768.48,UPI,Street food,0,10,2024,2024-10,Tuesday,4
+2024-10-15,Miscellaneous,611.12,Credit Card,Other expense,0,10,2024,2024-10,Tuesday,4
+2024-10-17,Entertainment,608.24,Credit Card,Netflix,0,10,2024,2024-10,Thursday,4
+2024-10-17,Education,820.74,Cash,Certification exam,0,10,2024,2024-10,Thursday,4
+2024-10-18,Miscellaneous,1718.08,Debit Card,Surprise gift,0,10,2024,2024-10,Friday,4
+2024-10-20,Healthcare,1756.34,Credit Card,Gym membership,1,10,2024,2024-10,Sunday,4
+2024-10-22,Entertainment,710.45,Cash,OTT subscription,0,10,2024,2024-10,Tuesday,4
+2024-10-23,Education,873.7,Cash,Books,0,10,2024,2024-10,Wednesday,4
+2024-10-23,Miscellaneous,2186.78,Credit Card,Car repair,0,10,2024,2024-10,Wednesday,4
+2024-10-23,Food & Dining,5136.85,Cash,Restaurant dinner,0,10,2024,2024-10,Wednesday,4
+2024-10-24,Education,1010.94,Credit Card,Coaching fee,0,10,2024,2024-10,Thursday,4
+2024-10-25,Shopping,959.84,Debit Card,Clothing store,0,10,2024,2024-10,Friday,4
+2024-10-26,Shopping,1159.98,Cash,Amazon order,1,10,2024,2024-10,Saturday,4
+2024-10-26,Entertainment,1512.77,UPI,Netflix,1,10,2024,2024-10,Saturday,4
+2024-10-28,Transport,1888.12,Debit Card,Bus pass,0,10,2024,2024-10,Monday,4
+2024-10-31,Utilities,339.43,Debit Card,Internet bill,0,10,2024,2024-10,Thursday,4
+2024-11-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,11,2024,2024-11,Friday,4
+2024-11-03,Entertainment,829.06,Debit Card,Concert,1,11,2024,2024-11,Sunday,4
+2024-11-03,Miscellaneous,764.45,Net Banking,Miscellaneous,1,11,2024,2024-11,Sunday,4
+2024-11-03,Shopping,4011.52,Credit Card,Clothing store,1,11,2024,2024-11,Sunday,4
+2024-11-05,Transport,2270.9,Net Banking,Ola/Uber ride,0,11,2024,2024-11,Tuesday,4
+2024-11-05,Healthcare,516.56,Net Banking,Health supplement,0,11,2024,2024-11,Tuesday,4
+2024-11-06,Miscellaneous,637.48,Net Banking,Other expense,0,11,2024,2024-11,Wednesday,4
+2024-11-06,Healthcare,766.18,Credit Card,Gym membership,0,11,2024,2024-11,Wednesday,4
+2024-11-06,Utilities,431.0,Credit Card,Internet bill,0,11,2024,2024-11,Wednesday,4
+2024-11-07,Food & Dining,2296.9,Credit Card,Swiggy,0,11,2024,2024-11,Thursday,4
+2024-11-09,Education,1187.09,Credit Card,Stationery,1,11,2024,2024-11,Saturday,4
+2024-11-09,Education,1375.01,Credit Card,Certification exam,1,11,2024,2024-11,Saturday,4
+2024-11-12,Food & Dining,2540.86,Net Banking,Coffee shop,0,11,2024,2024-11,Tuesday,4
+2024-11-12,Transport,1810.6,Cash,Bus pass,0,11,2024,2024-11,Tuesday,4
+2024-11-14,Entertainment,566.4,Cash,Gaming purchase,0,11,2024,2024-11,Thursday,4
+2024-11-15,Healthcare,624.85,Net Banking,Lab test,0,11,2024,2024-11,Friday,4
+2024-11-17,Food & Dining,4040.98,Credit Card,Zomato order,1,11,2024,2024-11,Sunday,4
+2024-11-17,Education,1037.32,Debit Card,Online course,1,11,2024,2024-11,Sunday,4
+2024-11-17,Utilities,623.78,UPI,Electricity bill,1,11,2024,2024-11,Sunday,4
+2024-11-17,Utilities,640.69,Credit Card,Internet bill,1,11,2024,2024-11,Sunday,4
+2024-11-19,Miscellaneous,719.46,Net Banking,Miscellaneous,0,11,2024,2024-11,Tuesday,4
+2024-11-21,Shopping,3817.55,UPI,Electronics,0,11,2024,2024-11,Thursday,4
+2024-11-21,Miscellaneous,2358.86,Debit Card,Lost wallet recharge,0,11,2024,2024-11,Thursday,4
+2024-11-23,Entertainment,1078.49,Cash,Gaming purchase,1,11,2024,2024-11,Saturday,4
+2024-11-26,Food & Dining,3246.8,Cash,Zomato order,0,11,2024,2024-11,Tuesday,4
+2024-11-27,Miscellaneous,2618.59,UPI,Emergency purchase,0,11,2024,2024-11,Wednesday,4
+2024-11-30,Utilities,598.24,Credit Card,Internet bill,1,11,2024,2024-11,Saturday,4
+2024-12-01,Rent,15000.0,Net Banking,Monthly Rent Payment,0,12,2024,2024-12,Sunday,4
+2024-12-01,Education,1324.07,UPI,Coaching fee,1,12,2024,2024-12,Sunday,4
+2024-12-02,Transport,553.43,Credit Card,Auto fare,0,12,2024,2024-12,Monday,4
+2024-12-02,Education,1050.96,UPI,Stationery,0,12,2024,2024-12,Monday,4
+2024-12-02,Miscellaneous,1796.79,Credit Card,Car repair,0,12,2024,2024-12,Monday,4
+2024-12-05,Healthcare,538.6,UPI,Pharmacy,0,12,2024,2024-12,Thursday,4
+2024-12-05,Entertainment,527.93,Debit Card,Sports event,0,12,2024,2024-12,Thursday,4
+2024-12-05,Entertainment,598.07,Debit Card,Gaming purchase,0,12,2024,2024-12,Thursday,4
+2024-12-07,Food & Dining,4982.29,Net Banking,Grocery store,1,12,2024,2024-12,Saturday,4
+2024-12-07,Entertainment,668.62,Debit Card,Gaming purchase,1,12,2024,2024-12,Saturday,4
+2024-12-07,Education,1228.1,Net Banking,Stationery,1,12,2024,2024-12,Saturday,4
+2024-12-08,Shopping,1990.08,Cash,Amazon order,1,12,2024,2024-12,Sunday,4
+2024-12-08,Transport,635.53,Cash,Petrol,1,12,2024,2024-12,Sunday,4
+2024-12-09,Shopping,1683.96,Cash,Flipkart,0,12,2024,2024-12,Monday,4
+2024-12-10,Healthcare,417.54,Cash,Health supplement,0,12,2024,2024-12,Tuesday,4
+2024-12-11,Entertainment,589.86,Debit Card,Concert,0,12,2024,2024-12,Wednesday,4
+2024-12-14,Transport,777.96,Cash,Auto fare,1,12,2024,2024-12,Saturday,4
+2024-12-14,Healthcare,474.17,Credit Card,Doctor consultation,1,12,2024,2024-12,Saturday,4
+2024-12-14,Miscellaneous,833.99,Credit Card,Other expense,1,12,2024,2024-12,Saturday,4
+2024-12-15,Miscellaneous,2340.33,Debit Card,House repair,0,12,2024,2024-12,Sunday,4
+2024-12-15,Transport,809.37,UPI,Parking fee,1,12,2024,2024-12,Sunday,4
+2024-12-17,Utilities,553.07,Cash,Mobile recharge,0,12,2024,2024-12,Tuesday,4
+2024-12-17,Education,984.3,Cash,Books,0,12,2024,2024-12,Tuesday,4
+2024-12-18,Miscellaneous,1008.08,Cash,House repair,0,12,2024,2024-12,Wednesday,4
+2024-12-18,Miscellaneous,521.32,UPI,Miscellaneous,0,12,2024,2024-12,Wednesday,4
+2024-12-18,Shopping,2088.4,UPI,Clothing store,0,12,2024,2024-12,Wednesday,4
+2024-12-20,Food & Dining,4104.88,UPI,Grocery store,0,12,2024,2024-12,Friday,4
+2024-12-21,Transport,739.21,Debit Card,Auto fare,1,12,2024,2024-12,Saturday,4
+2024-12-24,Utilities,628.55,Debit Card,Water bill,0,12,2024,2024-12,Tuesday,4
+2024-12-25,Utilities,837.66,Credit Card,Mobile recharge,0,12,2024,2024-12,Wednesday,4
+2024-12-25,Miscellaneous,1329.11,UPI,Medical emergency,0,12,2024,2024-12,Wednesday,4
+2024-12-27,Healthcare,369.77,Debit Card,Health supplement,0,12,2024,2024-12,Friday,4
+2024-12-29,Food & Dining,5152.85,Net Banking,Restaurant dinner,1,12,2024,2024-12,Sunday,4
+2024-12-29,Miscellaneous,749.58,Cash,Other expense,1,12,2024,2024-12,Sunday,4
+2024-12-29,Utilities,528.81,Debit Card,Mobile recharge,1,12,2024,2024-12,Sunday,4

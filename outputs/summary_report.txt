@@ -1,0 +1,66 @@
+=================================================================
+   💼 EXPENSE TRACKER APP — FINANCIAL SUMMARY REPORT
+   Generated: 2026-04-19 14:03
+=================================================================
+
+📌 KEY PERFORMANCE INDICATORS
+----------------------------------------
+  Total_Expense                      : ₹1,202,085.21
+  Total_Income                       : ₹1,886,459.70
+  Total_Savings                      : ₹684,374.49
+  Avg_Monthly_Burn_Rate              : ₹50,086.88
+  Avg_Savings_Rate_%                 : 35.93
+  Expense_Growth_Rate_%              : 3.56
+  Top_Category                       : Rent
+  Top_Category_Share_%               : 29.95
+  Average_Monthly_Savings            : ₹28,515.60
+  Average_Savings_Rate_%             : 35.93
+  Negative_Savings_Months            : 0
+  Best_Savings_Month                 : 2023-02
+  Worst_Savings_Month                : 2023-10
+  Cumulative_Savings                 : ₹684,374.49
+
+🏆 FINANCIAL HEALTH SCORE
+----------------------------------------
+  Financial_Health_Score             : 69.4
+  Grade                              : 🟡 Good
+  Savings_Rate_Score                 : 40
+  Overspend_Score                    : 2.5
+  Consistency_Score                  : 16.9
+  Utilisation_Score                  : 10
+  Avg_Savings_Rate_%                 : 35.93
+  Overspent_Months                   : 22
+
+💡 AUTOMATED INSIGHTS
+----------------------------------------
+
+  [Month-over-Month]
+    • 📈 Education spending increased by 27.4% compared to 2024-11 (₹4,587 vs ₹3,599).
+    • 📈 Food & Dining spending increased by 17.4% compared to 2024-11 (₹14,240 vs ₹12,126).
+    • 📈 Miscellaneous spending increased by 20.9% compared to 2024-11 (₹8,579 vs ₹7,099).
+    • ✅ Great! You reduced Shopping expenses by 26.4% (₹7,829 → ₹5,762). Keep it up!
+
+  [Overspending]
+    • 🚨 Healthcare in 2023-10: You spent ₹5,027 — that's 183.9% above your average (₹1,770).
+    • 🚨 Healthcare in 2024-04: You spent ₹4,199 — that's 137.2% above your average (₹1,770).
+    • 🚨 Healthcare in 2024-10: You spent ₹3,713 — that's 109.8% above your average (₹1,770).
+    • 🚨 Food & Dining in 2023-06: You spent ₹18,928 — that's 88.3% above your average (₹10,049).
+    • 🚨 Miscellaneous in 2023-03: You spent ₹13,730 — that's 87.9% above your average (₹7,307).
+
+  [Savings]
+    • 🌟 Excellent! You're saving 35.9% of your income on average. Consider investing surplus savings in mutual funds or SIPs.
+    • 📅 Your best savings month was 2023-02 (₹48,413), and the worst was 2023-10 (₹13,432).
+
+  [Predictions]
+    • 📊 Next month's expenses are predicted to be around ₹56,945, consistent with your recent trend.
+
+  [Anomalies]
+    • 🔍 39 unusual transactions were flagged by our AI engine:
+    •    • 01 Jan 2023 | Rent | ₹15,000 — Monthly Rent Payment
+    •    • 01 Mar 2024 | Rent | ₹15,000 — Monthly Rent Payment
+    •    • 01 Feb 2024 | Rent | ₹15,000 — Monthly Rent Payment
+    •    • 01 May 2024 | Rent | ₹15,000 — Monthly Rent Payment
+
+=================================================================
+  End of Report — Expense Tracker App v2.0
+=================================================================
