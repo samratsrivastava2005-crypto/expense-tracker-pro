@@ -52,11 +52,9 @@ def monthly_summary(df_exp: pd.DataFrame, df_inc: pd.DataFrame) -> pd.DataFrame:
     summary = pd.merge(exp_m, inc_m, on="Month_Year", how="left").fillna(0)
     summary["Savings"]      = summary["Total_Income"] - summary["Total_Expense"]
     
-summary["Savings_Rate"] = np.where(
-    summary["Total_Income"] != 0,
-    (summary["Savings"] / summary["Total_Income"] * 100).round(2),
-    np.nan
-)
+    summary["Savings_Rate"] = (
+        summary["Savings"] / summary["Total_Income"] * 100
+    ).where(summary["Total_Income"] != 0).round(2)
 
     summary = summary.sort_values("Month_Year").reset_index(drop=True)
     return summary
